@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="PhysioRevision NHS icon">
+  <rect width="512" height="512" rx="112" fill="#0f766e"/>
+  <path d="M130 154h252v204H130z" fill="#ecfeff"/>
+  <path d="M176 210h160M176 264h160M176 318h90" stroke="#0f766e" stroke-width="28" stroke-linecap="round"/>
+  <path d="M256 80v352M170 124h172" stroke="#ffffff" stroke-width="36" stroke-linecap="round"/>
+</svg>
